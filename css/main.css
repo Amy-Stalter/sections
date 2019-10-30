@@ -10,10 +10,9 @@ html {
 }
 
 h2 {
-  margin-top: -10px;
   color: black;
   text-align: left;
-  margin-top:0;
+  margin-top: 0;
 }
 
 body {
@@ -25,9 +24,8 @@ body {
   text-align: center;
 }
 
-
 p {
-  margin-top:-10px;
+  margin-top: -10px;
   text-align: left;
   font-family: Lato, serif;
   color: black;
@@ -41,7 +39,7 @@ section {
   display: inline-block;
   max-width: 370px;
   min-height: 370px;
-  padding: 0;
+  padding: .4em .75em .5em;
   margin: 1rem;
   margin-top: -10px;
   text-align: left;
@@ -64,6 +62,8 @@ section {
 
 img {
   width: 100%;
+  display: block;
+  padding: .4em .75em .5em;
 }
 
 a {
